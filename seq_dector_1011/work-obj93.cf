@@ -1,0 +1,7 @@
+v 4
+file . "seq_det_tb.vhdl" "1b37e45521c3f6ab91f0deab013103e0a1bc2781" "20240205135453.042":
+  entity seq_det_tb at 1( 0) + 0 on 31;
+  architecture behaviour of seq_det_tb at 7( 82) + 0 on 32;
+file . "seq_det.vhdl" "05776fa8915fb665126d2aeefb3e4dc617a7b2e1" "20240205135453.035":
+  entity seq_det at 1( 0) + 0 on 29;
+  architecture behaviour of seq_det at 11( 141) + 0 on 30;

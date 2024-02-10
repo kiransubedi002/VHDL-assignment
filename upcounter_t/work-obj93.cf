@@ -1,0 +1,11 @@
+v 4
+file . "t_flipflop.vhdl" "0039a76fce6d8ed55c15aa0155053d0d6154e9fa" "20240204130937.688":
+  entity tff at 1( 0) + 0 on 227;
+  architecture behaviour of tff at 11( 127) + 0 on 228;
+  entity and_g at 30( 419) + 0 on 229;
+  architecture and_g of and_g at 38( 554) + 0 on 230;
+  entity upcounter3bit at 47( 639) + 0 on 231;
+  architecture structure of upcounter3bit at 57( 803) + 0 on 232;
+file . "t_flipflop_tb.vhdl" "a5ca071f3cb88ba88891ac883b179d5523b80af7" "20240204130937.706":
+  entity t_flipflop_tb at 1( 0) + 0 on 233;
+  architecture behaviour of t_flipflop_tb at 7( 88) + 0 on 234;
