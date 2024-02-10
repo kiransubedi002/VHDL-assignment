@@ -1,0 +1,7 @@
+v 4
+file . "bcd_tb.vhdl" "59dceef8c1baf6d4c3d04801db18f253f606dec1" "20240210131958.055":
+  entity bcd_tb at 1( 0) + 0 on 27;
+  architecture behaviour of bcd_tb at 8( 100) + 0 on 28;
+file . "bcd.vhdl" "3c7953eb889e2c0527e41040f7919b930514729b" "20240210131958.022":
+  entity bcd_seg at 1( 0) + 0 on 25;
+  architecture behaviour of bcd_seg at 11( 156) + 0 on 26;
